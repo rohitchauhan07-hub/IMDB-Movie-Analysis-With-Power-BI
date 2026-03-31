@@ -73,17 +73,4 @@ In this section, we dive into the realm of data analytics to gain valuable insig
 Contributions to this project are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request.
 
 
-**License**
 
-This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
-
-**Contact**
-
-📧 Email: gopiashokankiot@gmail.com 
-
-🌐 LinkedIn: [linkedin.com/in/gopiashokan](https://www.linkedin.com/in/gopiashokan)
-
-For any further questions or inquiries, feel free to reach out. We are happy to assist you with any queries.
-
-![](https://github.com/gopiashokan/IMDB-Movie-Analysis-with-PowerBI/blob/main/Dashboards/Dashboard%205.jpg)
